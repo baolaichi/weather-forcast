@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="setting">Setting chế độ</string>
+    <string name="Bao">Thông báo</string>
+    <string name="Danh_sach">Danh sách vị trí</string>
+    <string name="about">About</string>
+    <string name="change_pass">Đổi mật khẩu</string>
+    <string name="DK">Đăng kí</string>
+    <string name="TK">Account</string>
+    <string name="navigation_open">Navigation open</string>
+    <string name="navigation_close">Navigation close</string>
+
+
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Danh_sach"
+            android:title="@string/Danh_sach"
+            android:icon="@drawable/baseline_checklist_24"/>
+        <item android:id="@+id/Setting"
+            android:title="@string/setting"
+            android:icon="@drawable/settings"/>
+        <item android:id="@+id/Bao"
+            android:title="@string/Bao"
+            android:icon="@drawable/notification"/>
+    </group>
+
+    <item android:title="@string/TK"/>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Change_pass"
+            android:title="@string/change_pass"
+            android:icon="@drawable/change_pass"/>
+        <item android:id="@+id/DKi"
+            android:title="@string/DK"
+            android:icon="@drawable/settings"/>
+
+    </group>
+
+    <item android:id="@+id/about"
+        android:title="@string/about"/>
+
+
+</menu>
